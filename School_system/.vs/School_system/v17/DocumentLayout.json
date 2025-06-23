@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\School_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|d:\\c#\\school_system\\school_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|D:\\C#\\School_system\\school_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|d:\\c#\\school_system\\school_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|d:\\c#\\school_system\\school_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|d:\\c#\\school_system\\school_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|D:\\C#\\School_system\\school_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C64E0ED-6C34-4558-8F88-FA16F831A365}|School_system\\School_system.csproj|solutionrelative:school_system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form3.cs",
+              "RelativeDocumentMoniker": "School_system\\Form3.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form3.cs",
+              "RelativeToolTip": "School_system\\Form3.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:54:15.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form2.cs",
+              "RelativeDocumentMoniker": "School_system\\Form2.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form2.cs",
+              "RelativeToolTip": "School_system\\Form2.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:23:04.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form1.cs",
+              "RelativeDocumentMoniker": "School_system\\Form1.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form1.cs",
+              "RelativeToolTip": "School_system\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:02:45.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form2.cs",
+              "RelativeDocumentMoniker": "School_system\\Form2.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form2.cs [Design]",
+              "RelativeToolTip": "School_system\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:17:23.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form3.cs",
+              "RelativeDocumentMoniker": "School_system\\Form3.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form3.cs [Design]",
+              "RelativeToolTip": "School_system\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T09:53:03.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\School_system\\School_system\\Form1.cs",
+              "RelativeDocumentMoniker": "School_system\\Form1.cs",
+              "ToolTip": "D:\\C#\\School_system\\School_system\\Form1.cs [Design]",
+              "RelativeToolTip": "School_system\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:57:57.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
